@@ -21,7 +21,7 @@ Clone the repository to your local machine:
 bash
 Copy code:-
 
-[git clone https://github.com/your-username/image-gallery-app.git](https://github.com/PankajKumarKar/image-gallary-app.git)
+https://github.com/PankajKumarKar/image-gallary-app.git
 
 cd image-gallery-app
 
